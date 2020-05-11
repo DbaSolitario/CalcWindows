@@ -1,0 +1,10 @@
+C:\Users\gui_s\OneDrive\Área de Trabalho\CalcForBianca\calcBianca\bin\Debug\calcBianca.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\CalcForBianca\calcBianca\bin\Debug\calcBianca.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\CalcForBianca\calcBianca\bin\Debug\calcBianca.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\CalcForBianca\calcBianca\obj\Debug\calcBianca.csprojAssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\CalcForBianca\calcBianca\obj\Debug\calcBianca.main.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\CalcForBianca\calcBianca\obj\Debug\calcBianca.Properties.Resources.resources
+C:\Users\gui_s\OneDrive\Área de Trabalho\CalcForBianca\calcBianca\obj\Debug\calcBianca.csproj.GenerateResource.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\CalcForBianca\calcBianca\obj\Debug\calcBianca.csproj.CoreCompileInputs.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\CalcForBianca\calcBianca\obj\Debug\calcBianca.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\CalcForBianca\calcBianca\obj\Debug\calcBianca.pdb
